@@ -1,0 +1,4 @@
+C:\Users\guime\Documents\Estudos\C\Bilheteria\x64\Debug\Bilheteria.exe
+D:\Arquivos\UNIP\PIM - 2 SEMESTRE\Bilheteria\x64\Debug\Bilheteria.exe
+E:\Arquivos\UNIP\PIM - 2 SEMESTRE\Bilheteria\x64\Debug\Bilheteria.exe
+E:\Arquivos\UNIP\PIM - 2 SEMESTRE - Final\Museu\x64\Debug\Bilheteria.exe
